@@ -259,7 +259,7 @@ CountryPicker.defaultProps = {
   dropDownImage: require('../../res/ic_drop_down.png'),
   backButtonImage: require('../../res/ic_back_black.png'),
   searchButtonImage: require('../../res/ic_search.png'),
-  countryCode: '91',
+  countryCode: '1',
   containerStyle: {
     height: 60,
     width: 250,
